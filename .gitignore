@@ -1,0 +1,15 @@
+models/
+*.pth
+*.npy
+*.tar
+*.pkl
+
+*.pyc
+models/
+result/
+result_author/
+result_fig/
+*.jpg
+pretrain/runs/
+result_*
+
